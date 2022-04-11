@@ -1,0 +1,20 @@
+*{
+  padding: 0;
+  margin:0;
+  box-sizing: border-box;
+}
+h1,h2,h3,h4,h5,h6{
+  color: currentColor !important;
+}
+html{
+  scroll-behavior: smooth !important;
+}
+
+body{
+  background-color: whitesmoke !important;
+  font-family: 'Roboto', sans-serif !important;
+}
+.container{
+  max-width: 1170px;
+  margin: 10px auto;
+}
